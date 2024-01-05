@@ -1,3 +1,1 @@
 # MABCricketProject
-
-Team name - AlphaVR
